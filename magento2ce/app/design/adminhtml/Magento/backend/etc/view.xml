@@ -10,7 +10,7 @@
     <vars module="Js_Bundle">
         <var name="bundle_size">1MB</var>
     </vars>
-    <test></test>
+
     <media>
         <images module="Magento_Catalog">
             <image id="product_listing_thumbnail" type="thumbnail">
